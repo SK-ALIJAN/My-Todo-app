@@ -1,0 +1,25 @@
+.title {
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.inputBox {
+  display: flex;
+  justify-content: center;
+}
+
+.inputBox input {
+  height: 3rem;
+  width: 20rem;
+  border-radius: 8px;
+  border: 0;
+  padding-left: 15px;
+}
+
+.inputBox button {
+  width: 5rem;
+  margin-left: 10px;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+}
